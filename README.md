@@ -1,3 +1,3 @@
-# Shiny quick-start
+# Shiny tutorial
 
-A few lines of code to start a new R Shiny project.
+A few simple projects to get started with R Shiny.
